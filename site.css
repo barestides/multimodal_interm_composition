@@ -1,0 +1,19 @@
+.header {
+    color: #33CAFF;
+    font-size: 150px;
+}
+
+h2 {
+    color: #33caff;
+    font-size: 60px;
+}
+
+body {
+    background-color: #eee;
+    font-family: Raleway, sans-serif;
+}
+
+p {
+    font-size: 30px;
+    color: #555;
+}
