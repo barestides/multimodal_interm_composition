@@ -1,6 +1,6 @@
 .header {
     color: #33CAFF;
-    font-size: 150px;
+    font-size: 100px;
 }
 
 h2 {
@@ -16,4 +16,17 @@ body {
 p {
     font-size: 30px;
     color: #555;
+}
+
+.underline {
+    border-bottom: 1px solid #ff830f;
+    
+}
+
+img {
+    width: 80%;
+}
+
+i {
+    font-size: 150%;
 }
